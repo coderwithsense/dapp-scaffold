@@ -64,6 +64,26 @@ export const AppBar: React.FC = () => {
             href="/basics"
             navigationStarts={() => setIsNavOpen(false)}
           />
+          <NavElement
+            label='Create Token'
+            href="/fungible-token"
+            navigationStarts={() => setIsNavOpen(false)}
+          />
+          <NavElement
+            label='Revoke'
+            href="/revoke-control"
+            navigationStarts={() => setIsNavOpen(false)}
+          />
+          <NavElement
+            label='Update Token'
+            href="/update-fungible-token"
+            navigationStarts={() => setIsNavOpen(false)}
+          />
+          <NavElement
+            label='Create Market'
+            href="/create-market"
+            navigationStarts={() => setIsNavOpen(false)}
+          />
           <WalletMultiButtonDynamic className="btn-ghost btn-sm rounded-btn text-lg mr-6 " />
         </div>
           <label

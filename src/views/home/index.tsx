@@ -37,17 +37,17 @@ export const HomeView: FC = ({ }) => {
         </h1>
         </div>
         <h4 className="md:w-full text-2x1 md:text-4xl text-center text-slate-300 my-2">
-          <p>Unleash the full power of blockchain with Solana and Next.js 13.</p>
-          <p className='text-slate-500 text-2x1 leading-relaxed'>Full-stack Solana applications made easy.</p>
+          <p>Unleash the full power of blockchain with Solana token creator and Manager</p>
+          <p className='text-slate-500 text-2x1 leading-relaxed'>Create solana tokens</p>
         </h4>
-        <div className="relative group">
+        {/* <div className="relative group">
           <div className="absolute -inset-0.5 bg-gradient-to-r from-indigo-500 to-indigo-500 rounded-lg blur opacity-40 animate-tilt"></div>
           <div className="max-w-md mx-auto mockup-code bg-primary border-2 border-[#5252529f] p-6 px-10 my-2">
             <pre data-prefix=">">
               <code className="truncate">{`npx create-solana-dapp <dapp-name>`} </code>
             </pre>
           </div>
-        </div>
+        </div> */}
         <div className="flex flex-col mt-2">
           <RequestAirdrop />
           <h4 className="md:w-full text-2xl text-slate-300 my-2">

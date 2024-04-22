@@ -16,7 +16,6 @@ export const SendTransaction: FC = () => {
 
         let signature: TransactionSignature = '';
         try {
-
             // Create instructions to send, in this case a simple transfer
             const instructions = [
                 SystemProgram.transfer({

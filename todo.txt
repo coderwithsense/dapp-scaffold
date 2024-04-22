@@ -1,0 +1,8 @@
+https://developers.metaplex.com/token-metadata/mint#minting-tokens
+https://github.com/raydium-io/raydium-sdk-V1-demo/tree/master/src
+
+https://github.com/raydium-io/raydium-sdk-V1-demo/blob/master/src/utilsCreateMarket.ts
+https://github.com/raydium-io/raydium-sdk-V1-demo/blob/master/src/ammCreatePool.ts
+https://github.com/raydium-io/raydium-sdk-V1-demo/blob/master/src/ammCreatePool.ts
+
+https://docs.chainstack.com/docs/solana-how-to-perform-token-swaps-using-the-raydium-sdk
